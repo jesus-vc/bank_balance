@@ -1,9 +1,8 @@
 //
 //  main.c
-//  bankbalance_switchstmt_functions_hw7
 //
-//  Created by Jesus Vasquez-Cipriano on 10/27/20.
-//  Copyright © 2020 Jesus Vasquez-Cipriano. All rights reserved.
+//  Created by Jesus Vasquez-Cipriano on 7/10/21.
+//  Copyright © 2021 Jesus Vasquez-Cipriano. All rights reserved.
 //
 
  /* ********************************************
